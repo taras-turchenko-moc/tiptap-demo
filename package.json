@@ -1,0 +1,34 @@
+{
+  "name": "tiptap",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@tiptap/extension-bullet-list": "^2.0.0-beta.29",
+    "@tiptap/extension-document": "^2.0.0-beta.17",
+    "@tiptap/extension-heading": "^2.0.0-beta.29",
+    "@tiptap/extension-history": "^2.0.0-beta.25",
+    "@tiptap/extension-italic": "^2.0.0-beta.28",
+    "@tiptap/extension-list-item": "^2.0.0-beta.23",
+    "@tiptap/extension-ordered-list": "^2.0.0-beta.30",
+    "@tiptap/extension-paragraph": "^2.0.0-beta.26",
+    "@tiptap/extension-text": "^2.0.0-beta.17",
+    "@tiptap/starter-kit": "^2.0.0-beta.189",
+    "@tiptap/vue-2": "^2.0.0-beta.83",
+    "core-js": "^3.8.3",
+    "vue": "^2.6.14",
+    "vuetify": "^2.6.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-vuetify": "~2.5.1",
+    "vue-template-compiler": "^2.6.14",
+    "vuetify-loader": "^1.7.0"
+  }
+}
